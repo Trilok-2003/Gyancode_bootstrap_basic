@@ -1,0 +1,8 @@
+.carousel-item img{
+    height: 300px;
+    width:100%;
+   background-position: center ;
+}
+.container{
+    width: 70%;
+}
